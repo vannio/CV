@@ -4,7 +4,6 @@
 
 I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites with cutting-edge technology to communicate important issues. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for opportunities to contribute right across the stack.
 
----
 &nbsp;
 ## Skills
 #### Curious mind, busy hands :raised_hands:
@@ -18,7 +17,6 @@ Constantly learning new things comes with a multitude of problems. Luckily, I'm 
 #### Completionist :100:
 As well as trying to complete every side quest in Skyrim and Dragon Age, I enjoy seeing a project evolve from vague client specifications, through to a polished piece [worthy of industry recognition](http://www.cssdesignawards.com/sites/hunger-in-america/27931/). My time as a front-end web developer at an agency has given me the opportunity to work on a large variety of projects, from well-organised CMS templates to elaborately animated narrative sites. I've been involved from the brainstorming stage right through to deployment, and it always gives me great pleasure to release work into _the wild_ for others to enjoy.
 
----
 &nbsp;
 ## Experience
 
@@ -36,7 +34,6 @@ Nov ‘12 — Mar ‘14
 - Web and print design, aiming to influence Government
 - Event co-ordination and facilitation
 
----
 &nbsp;
 ## Education
 
