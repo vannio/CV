@@ -1,8 +1,26 @@
 # Van Le
 
-[skills](#skills) | [experience](#experience) | [education](#education) | [portfolio](http://vann.io)
+[projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [portfolio](http://vann.io)
 
-I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites with cutting-edge technology to communicate important issues. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for opportunities to contribute right across the stack.
+I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a coding bootcamp course at Makers Academy, learning agile principles like paired programming and TDD. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for opportunities to contribute right across the stack.
+
+## Projects
+
+#### Front-end
+|Name|Description|Technologies|
+|---|---|---|
+| [**The Guardian**: The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Grunt, Pixi.js |
+| [**Feeding America**: Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | Grunt, ScrollMagic, GreenSock |
+| [**RSPO**: Say yes to good palm oil](http://goodbadpalmoil.org/) | A single-page website highlighting the difference between 'good' and 'bad' palm oil | Gulp, SVG.js, Bodymovin |
+
+
+#### Full-Stack
+|Name|Description|Technologies|
+|---|---|---|
+| [Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game where players race against each other to complete a coding challenge | Node, Express, Socket.io, Mocha, Chai, Sinon, Zombie |
+| [Unicorn Framework](https://github.com/vannio/unicorn-framework) | A lightweight and amusing web-framework for Node with a Handlebars-inspired templating engine | Node, Mocha, Chai, Zombie |
+| [Chitter](https://github.com/vannio/chitter) | A clone of popular social media site, Twitter | Sinatra, DataMapper, PostgreSql, BCrypt |
+
 
 &nbsp;
 ## Skills
@@ -16,7 +34,7 @@ I always like to keep busy and am often working on a side project of some kind. 
 #### Problem solver :bulb:
 Constantly learning new things comes with a multitude of problems that are harder to debug because of their unfamiliarity. Luckily, I'm a fast, experienced debugger and can spot common patterns or pre-empt an upcoming issue.
 
-My scientific background surprisingly comes into use fairly often. I've learnt to take a more systematic approach to solving a problem, starting off with a hypothesis and testing it out, either by writing unit tests or intentionally breaking code (and subsequently fixing it, of course). I'm no stranger to puzzles and can even navigate my way around a Rubik's cube.
+My background in Chemistry comes into use surprisingly often. I've learnt to take a more scientific and systematic approach to solving a problem, starting off with a hypothesis and testing it out, either by writing unit tests or intentionally breaking code (and subsequently fixing it, of course). I'm no stranger to puzzles and can even navigate my way around a Rubik's cube.
 
 #### Completionist :100:
 As well as trying to complete every side quest in Skyrim and Dragon Age, I enjoy seeing a project evolve from vague client specifications, through to a polished piece [worthy of industry recognition](http://www.cssdesignawards.com/sites/hunger-in-america/27931/). My time as a front-end web developer at an agency has given me the opportunity to work on a large variety of projects, from well-organised CMS templates to elaborately animated narrative sites. I've been involved from the brainstorming stage right through to deployment, and it always gives me great pleasure to release work into _the wild_ for others to enjoy.
