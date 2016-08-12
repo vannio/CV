@@ -2,16 +2,16 @@
 
 [projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [portfolio](http://vann.io)
 
-I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a coding bootcamp course at Makers Academy, learning agile principles like paired programming and TDD. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for opportunities to contribute right across the stack.
+I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a highly-selective coding bootcamp at Makers Academy, practicing paired programming and TDD for cleaner, more modular code. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for exciting opportunities to contribute right across the stack.
 
 &nbsp;
-## Projects
+## Projects :lollipop:
 #### Front-end
 |Name|Description|Technologies|
 |---|---|---|
-| [**The Guardian**: The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Grunt, Pixi.js |
-| [**Feeding America**: Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | Grunt, ScrollMagic, GreenSock |
-| [**RSPO**: Say yes to good palm oil](http://goodbadpalmoil.org/) | A single-page website highlighting the difference between 'good' and 'bad' palm oil | Gulp, SVG.js, Bodymovin |
+| [**The Guardian**:<br>The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Grunt, Pixi.js |
+| [**Feeding America**:<br>Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | Grunt, ScrollMagic, GreenSock |
+| [**RSPO**:<br>Say yes to good palm oil](http://goodbadpalmoil.org/) | A single-page website highlighting the difference between 'good' and 'bad' palm oil | Gulp, SVG.js, Bodymovin |
 
 
 #### Full-Stack
