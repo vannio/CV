@@ -4,8 +4,8 @@
 
 I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a coding bootcamp course at Makers Academy, learning agile principles like paired programming and TDD. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for opportunities to contribute right across the stack.
 
+&nbsp;
 ## Projects
-
 #### Front-end
 |Name|Description|Technologies|
 |---|---|---|
