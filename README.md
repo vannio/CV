@@ -1,11 +1,13 @@
 # Van Le
 
-[projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [portfolio](http://vann.io)
+[**projects**](#projects) | [**skills**](#skills) | [**experience**](#experience) | [**education**](#education) | [**portfolio**](http://vann.io)
 
-I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a highly-selective coding bootcamp at Makers Academy, practicing paired programming and TDD for cleaner, more modular code. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for exciting opportunities to contribute right across the stack.
+I'm a full-stack developer with over two years of front-end experience at a digital agency, building websites to communicate important issues. I've recently completed a highly-selective coding bootcamp at Makers Academy, practicing paired programming and TDD for cleaner, more modular code.
+
+Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for exciting opportunities to contribute right across the stack.
 
 &nbsp;
-## Projects :lollipop:
+## Projects
 #### Front-end
 |Name|Description|Technologies|
 |---|---|---|
