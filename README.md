@@ -1,6 +1,6 @@
 # Van Le
 
-[**projects**](#projects) | [**skills**](#skills) | [**experience**](#experience) | [**education**](#education) | [**portfolio**](http://vann.io)
+[**projects**](#projects) |  [**skills**](#skills) | [**experience**](#experience) | [**education**](#education)
 
 I'm a full-stack developer with over two years of professional front-end experience. I started web development from an early age, styling MySpace profiles (I know...) and hobby websites. I pursued a degree in Chemistry, but just couldn't keep away from coding, and eventually returned to work at a digital agency as a front-end developer.
 
@@ -11,14 +11,15 @@ I've just completed a highly selective coding course at Makers Academy, practici
 #### Front-end
 |Name|Description|Technologies|
 |---|---|---|
-| [**The Guardian**:<br>The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Grunt, Pixi.js |
-| [**Feeding America**:<br>Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | Grunt, ScrollMagic, GreenSock |
-| [**RSPO**:<br>Say yes to good palm oil](http://goodbadpalmoil.org/) | A single-page website highlighting the difference between 'good' and 'bad' palm oil | Gulp, SVG.js, Bodymovin |
+| [**The Guardian**:<br>The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Pixi.js, Grunt |
+| [**Feeding America**:<br>Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | ScrollMagic, GreenSock, Grunt |
+| [**Chatham House**:<br>Syria and its Neighbours](http://syria.chathamhouse.org/) | A map-based story detailing the conflicts surrounding Syria within the last 5 years | CraftCMS, Vagrant, Paper.js, ScrollMagic, Greensock, Gulp
 
 
 #### Full-Stack
 |Name|Description|Technologies|
 |---|---|---|
+| [Snapogram](https://github.com/vannio/snap-o-gram) | A social photo-sharing app with optional filters to make your photos _pop_ | Ruby on Rails, ImageMagick, AWS (S3) |
 | [Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game where players race against each other to complete a coding challenge | Node, Express, Socket.io, Mocha, Chai, Sinon, Zombie |
 | [Unicorn Framework](https://github.com/vannio/unicorn-framework) | A lightweight and amusing web-framework for Node with a Handlebars-inspired templating engine | Node, Mocha, Chai, Zombie |
 | [Chitter](https://github.com/vannio/chitter) | A clone of popular social media site, Twitter | Sinatra, DataMapper, PostgreSql, BCrypt |
