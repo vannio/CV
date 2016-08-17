@@ -48,23 +48,23 @@ As well as trying to complete every side quest in Skyrim and Dragon Age, I enjoy
 
 #### Ruby on Rails Coach
 Rails Girls London<br>
-Dec ‘15 — ongoing
+_Dec ‘15 — ongoing_
 - Pair-programming with attendees as they learn basic Ruby
 - Helping attendees create their first Ruby on Rails application
 - Diagramming and explaining concepts such as MVC
 
 #### Front-End Web Developer
 Nice and Serious<br>
-Mar ‘14 — May ‘16
+_Mar ‘14 — May ‘16_
 - Developing innovative animated websites, primarily with JavaScript, SCSS and HTML
 - Deploying to staging and production servers, including cloud-based servers
-- Exploring new frameworks and technologies to improve productivity and work ow
+- Exploring new frameworks and technologies to improve productivity and work flow
 - Wireframing and designing responsive layouts
 - Testing and debugging websites for cross-browser issues, including legacy browsers
 
 #### Communications & Design Assistant
 University Alliance<br>
-Nov ‘12 — Mar ‘14
+_Nov ‘12 — Mar ‘14_
 - Web and print design, aiming to influence Government
 - Event co-ordination and facilitation
 - Diary management for entire team
@@ -74,20 +74,20 @@ Nov ‘12 — Mar ‘14
 
 #### Software Development
 Makers Academy<br>
-May ‘16 — Aug ‘16
+_May ‘16 — Aug ‘16_
 - 12 week software development course, learning best practices for clean code
 - Test-driving web applications, with tools such as RSpec and Mocha
 - Object-oriented design, abiding by SOLID principles
 
 #### MSc Science Communication
 Imperial College London<br>
-Oct ‘13 — Oct ‘15 (part-time)
+_Oct ‘13 — Oct ‘15 (part-time)_
 - Presenting science-related topics to non-experts
 - Units taken include Science Policy and The Media Representation of Science
 - Grade **Merit**
 
 #### BSc Chemistry
 Manchester Metropolitan University<br>
-Sep ‘08 — Sep ‘11
+_Sep ‘08 — Sep ‘11_
 - Member of Student Committee, responsible for bridging the gap between students and staff
 - Grade **2:1**
