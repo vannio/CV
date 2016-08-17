@@ -1,6 +1,6 @@
 # Van Le
 
-[projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [blog]('http://vann.io/posts/')
+[projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education) | [blog](http://vann.io/posts/)
 
 I'm a software developer with 2+ years of professional experience at a digital agency. I started web development from an early age, styling MySpace profiles (I know...) and hobby websites. I pursued a degree in Chemistry, but just couldn't keep away from coding, and eventually returned to work at a digital agency as a front-end developer.
 
