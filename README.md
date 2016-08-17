@@ -1,28 +1,29 @@
 # Van Le
 
-[**projects**](#projects) |  [**skills**](#skills) | [**experience**](#experience) | [**education**](#education)
+[projects](#projects) | [skills](#skills) | [experience](#experience) | [education](#education)
 
-I'm a full-stack developer with over two years of professional front-end experience. I started web development from an early age, styling MySpace profiles (I know...) and hobby websites. I pursued a degree in Chemistry, but just couldn't keep away from coding, and eventually returned to work at a digital agency as a front-end developer.
+I'm a software developer with 2+ years of professional experience at a digital agency. I started web development from an early age, styling MySpace profiles (I know...) and hobby websites. I pursued a degree in Chemistry, but just couldn't keep away from coding, and eventually returned to work at a digital agency as a front-end developer.
 
-I've just completed a highly selective coding course at Makers Academy, practicing paired programming and TDD for cleaner, more modular code. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for exciting opportunities to contribute right across the stack and put my fantastic training to good use.
+I recently completed an intensive software development course at Makers Academy, practicing object-oriented programming and test-driven development in both Ruby and JavaScript. Whilst I do love crafting a slick user interface and fanciful animations, I'm looking for exciting opportunities to contribute right across the stack and put my fantastic training to good use.
+
 
 &nbsp;
 ## Projects
 #### Front-end
 |Name|Description|Technologies|
 |---|---|---|
-| [**The Guardian**:<br>The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Pixi.js, Grunt |
-| [**Feeding America**:<br>Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | ScrollMagic, GreenSock, Grunt |
-| [**Chatham House**:<br>Syria and its Neighbours](http://syria.chathamhouse.org/) | A map-based story detailing the conflicts surrounding Syria within the last 5 years | CraftCMS, Vagrant, Paper.js, ScrollMagic, Greensock, Gulp
+| [**The Guardian** — The Lone Denier](http://www.theguardian.com/environment/ng-interactive/2016/jan/15/the-lone-climate-change-denier-interactive-game) | A custom clone of a Space Invaders game, as a light-hearted approach to climate change deniers | Pixi.js, Grunt |
+| [**Feeding America** — Hunger in America ](http://www.feedingamerica.org/hunger-in-america/our-research/hunger-in-america/facts-and-faces/) | An animated scrolling site following the stories of four people struggling with hunger | ScrollMagic, GreenSock, Grunt |
+| [**Chatham House** — Syria and its Neighbours](http://syria.chathamhouse.org/) | A map-based story detailing the conflicts surrounding Syria within the last 5 years | CraftCMS, Vagrant, Paper.js, ScrollMagic, Greensock, Gulp
 
 
 #### Full-Stack
 |Name|Description|Technologies|
 |---|---|---|
-| [Snapogram](https://github.com/vannio/snap-o-gram) | A social photo-sharing app with optional filters to make your photos _pop_ | Ruby on Rails, ImageMagick, AWS (S3) |
+| [Snapogram](https://github.com/vannio/snap-o-gram) | A social photo-sharing app with optional filters to make your photos _pop_ | Ruby on Rails, PostgreSQL, ImageMagick, AWS (S3) |
 | [Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game where players race against each other to complete a coding challenge | Node, Express, Socket.io, Mocha, Chai, Sinon, Zombie |
 | [Unicorn Framework](https://github.com/vannio/unicorn-framework) | A lightweight and amusing web-framework for Node with a Handlebars-inspired templating engine | Node, Mocha, Chai, Zombie |
-| [Chitter](https://github.com/vannio/chitter) | A clone of popular social media site, Twitter | Sinatra, DataMapper, PostgreSql, BCrypt |
+| [Chitter](https://github.com/vannio/chitter) | A clone of popular social media site, Twitter | Sinatra, DataMapper, PostgreSQL, BCrypt |
 
 
 &nbsp;
@@ -45,11 +46,19 @@ As well as trying to complete every side quest in Skyrim and Dragon Age, I enjoy
 &nbsp;
 ## Experience
 
+#### Ruby on Rails Coach
+Rails Girls London<br>
+Dec ‘15 — ongoing
+- Pair-programming with attendees as they learn basic Ruby
+- Helping attendees create their first Ruby on Rails application
+- Diagramming and explaining concepts such as MVC
+
 #### Front-End Web Developer
 Nice and Serious<br>
 Mar ‘14 — May ‘16
-- Crafting innovative animated sites, primarily single-page campaigns
-- Exploring new frameworks and technologies to improve productivity and workflow
+- Developing innovative animated websites, primarily with JavaScript, SCSS and HTML
+- Deploying to staging and production servers, including cloud-based servers
+- Exploring new frameworks and technologies to improve productivity and work ow
 - Wireframing and designing responsive layouts
 - Testing and debugging websites for cross-browser issues, including legacy browsers
 
@@ -58,14 +67,15 @@ University Alliance<br>
 Nov ‘12 — Mar ‘14
 - Web and print design, aiming to influence Government
 - Event co-ordination and facilitation
+- Diary management for entire team
 
 &nbsp;
 ## Education
 
-#### Full-Stack Development
+#### Software Development
 Makers Academy<br>
 May ‘16 — Aug ‘16
-- 12 week full-stack development course, learning best practices for clean code
+- 12 week software development course, learning best practices for clean code
 - Test-driving web applications, with tools such as RSpec and Mocha
 - Object-oriented design, abiding by SOLID principles
 
