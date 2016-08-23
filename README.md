@@ -4,7 +4,7 @@
 
 I'm a **software developer** with **2+ years** of professional development experience. I started web development from an early age, styling MySpace profiles (I know...) and hobby websites. I pursued a degree in Chemistry, but just couldn't keep away from coding, and eventually returned to work at a digital agency as a front-end developer.
 
-I recently completed an intensive software development course to further expand my skillset and learn best practices. I'm looking for exciting opportunities ✨ to contribute right across the stack and put my fantastic training to good use. I'm open to learning new programming languages as necessary.
+I recently completed an intensive software development course to further expand my skillset and learn best practices. I'm **looking for exciting opportunities** ✨ to contribute right across the stack and put my fantastic training to good use. I'm open to learning new programming languages as necessary.
 
 &nbsp;
 ## Projects
